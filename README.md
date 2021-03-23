@@ -1,2 +1,1 @@
-# CVXR
-Just a little system monitoring app
+# CVXR 1.0
