@@ -1,5 +1,8 @@
 echo Thanks for downlaoding CVXR
+sudo echo trying to get sudo
+sudo apt install pip3
 sudo apt install pip
+pip3 install psutil
 pip install psutil
 echo =====================END OF INSTALL==============================
 echo  
